@@ -1,3 +1,0 @@
-# Continuous Delivery
-
-Todo.

@@ -1,3 +1,0 @@
-# Useful Git Aliases
-
-Todo.

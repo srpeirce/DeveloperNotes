@@ -1,3 +1,0 @@
-# Globalisation and Localisation
-
-Todo.

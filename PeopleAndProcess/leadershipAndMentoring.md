@@ -1,3 +1,0 @@
-# Leadership and Mentoring
-
-Todo.

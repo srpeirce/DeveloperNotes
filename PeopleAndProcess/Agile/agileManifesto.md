@@ -1,3 +1,0 @@
-# Agile Manifesto
-
-Todo

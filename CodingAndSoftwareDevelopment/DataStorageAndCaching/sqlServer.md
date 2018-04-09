@@ -1,3 +1,0 @@
-# SQL Server
-
-Todo.

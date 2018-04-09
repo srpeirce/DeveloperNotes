@@ -1,3 +1,0 @@
-# High performance code
-
-todo...

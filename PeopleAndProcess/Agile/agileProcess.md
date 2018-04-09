@@ -1,3 +1,0 @@
-# Agile Process
-
-Todo.
